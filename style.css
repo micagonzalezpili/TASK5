@@ -1,0 +1,105 @@
+.container-fluid img{
+    width: 8rem;
+}
+.navbar-navme-automb-2mb-lg-0{
+    width: 100vw !important;
+}
+.navbarnavbar-expand-lgd-flexjustify-content-betweencol-12{
+    height: 100% !important;
+    padding: 0;
+}
+.collapsenavbar-collapse{
+    width: 100%;
+}
+.d-blockw-100text-centerbg-secondary-subtle{
+    height: 100vh;
+}
+.carousel-inner{
+    height: 100%;
+}
+
+.redes img{
+    width: 3rem;
+    object-fit: contain;
+}
+header{
+    min-height: 15vh;
+}
+main{
+    min-height: 70vh;
+    font-family: cursive;
+}
+footer{
+    min-height: 15vh;
+}
+.card img{
+    object-fit: cover;
+    width: 18rem;
+    height: 15rem;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+td{
+    width: 20rem;
+}
+.cardd-flexflex-columnjustify-content-evenly{
+    width: 18rem;
+    height: 25rem;
+    
+}
+.card-img-top{
+    height: 13rem !important;
+    
+}
+.card-body{
+    justify-content: space-evenly;
+    margin-top: 2rem;
+   
+}
+.col-md-4align-self-center{
+    min-width: 27rem ;
+}
+.img-fluidrounded-startms-3 {
+    min-width: 17rem ;
+}
+#botonDetails {
+   
+    background-color: #c09fdf;
+    color: black;
+    border: 1px solid blueviolet;
+  }
+  #carduno, #carddos{
+    box-shadow: -39px 67px 53px -40px rgba(212,208,135,0.61);
+-webkit-box-shadow: -39px 67px 53px -40px rgba(212,208,135,0.61);
+-moz-box-shadow: -39px 67px 53px -40px rgba(212,208,135,0.61);
+  }
+
+  button {
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #725AC1;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border: 2px solid #725AC1;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 0 #725AC1;
+  }
+  
+  button:hover {
+    color: rgb(238, 223, 139);
+    box-shadow: inset 0 -100px 0 0 #725AC1;
+  }
+  
+  button:active {
+    transform: scale(0.9);
+  }
+ 
